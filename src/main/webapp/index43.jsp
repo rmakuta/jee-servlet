@@ -15,5 +15,6 @@
 <body>
 <c:set var="someName" value="Witaj w coderslab."/>
 <c:if test="${fn:contains(someName, 'coderslab')}" ><p>oK!</p></c:if>
+<%--<c:if test="${someName.contains('coderslab')}">oK!</c:if>--%>
 </body>
 </html>
