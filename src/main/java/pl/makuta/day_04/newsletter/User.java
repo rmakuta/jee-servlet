@@ -1,4 +1,4 @@
-package pl.makuta.day_04;
+package pl.makuta.day_04.newsletter;
 
 public class User {
     private int id;

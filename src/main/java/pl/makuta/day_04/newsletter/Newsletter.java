@@ -1,4 +1,4 @@
-package pl.makuta.day_04;
+package pl.makuta.day_04.newsletter;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
