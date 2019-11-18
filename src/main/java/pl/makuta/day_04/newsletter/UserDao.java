@@ -1,7 +1,5 @@
 package pl.makuta.day_04.newsletter;
 
-import pl.makuta.day_04.newsletter.User;
-
 import java.sql.*;
 
 public class UserDao {
